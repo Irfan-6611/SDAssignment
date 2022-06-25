@@ -1,0 +1,9 @@
+line_length:
+  - 300 # warning
+  - 400 # error
+excluded:
+- Carthage
+- Pods
+disabled_rules:
+- identifier_name
+
